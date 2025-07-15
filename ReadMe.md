@@ -16,4 +16,4 @@ This is a console-based Personal Task Management System implemented in Java. It 
 1. **Prerequisites**: Ensure you have Java Development Kit (JDK) installed (version 8 or higher).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/PersonalTaskManagementSystem.git
+   https://github.com/Sunandhit-Gupta/Task-Management-Software.git
